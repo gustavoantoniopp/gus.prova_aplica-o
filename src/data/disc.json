@@ -1,0 +1,52 @@
+[
+    {
+        "id":1,
+        "title":"Closing Time",
+        "year":"1973"
+    },
+    {
+        "id": 2,
+        "title": "The Heart of Saturday Night",
+        "year": "1974"
+    },
+    {
+        "id": 3,
+        "title": "Small Change",
+        "year": "1977"
+    },
+    {
+        "id": 4,
+        "title": "Foreign Affairs",
+        "year": "1978"
+    },
+    {
+        "id": 5,
+        "title": "Blue Valentine",
+        "year": "1978"
+    },
+    {
+        "id": 6,
+        "title": "Heartattack and Vine",
+        "year": "1980"
+    },
+    {
+        "id": 7,
+        "title": "Swordfishtrombones",
+        "year": "1983"
+    },
+    {
+        "id": 8,
+        "title": "Rain Dogs",
+        "year": "1985"
+    },
+    {
+        "id": 9,
+        "title": "Franks Wild Years",
+        "year": "1987"
+    },
+    {
+        "id": 10,
+        "title": "Bone Machine",
+        "year": "1992"
+    }
+]

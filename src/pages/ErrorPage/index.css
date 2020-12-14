@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Lacquer&display=swap');
+
+.error{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+}
+.not{
+    margin-top: 30px;
+    text-align: center;
+}
+.not h1{
+    font-size: 70px;
+    color: white
+}
+.not p{
+    font-size: 40px;
+    font-family: 'Lacquer', cursive;
+    color: #dfd130;
+}
+.not img{
+    width: 300px;
+}

@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Neucha&display=swap');
+
+.footer{
+    display: flex;
+    background: #000000;
+    justify-content: space-between;
+    color: white;
+    box-shadow: 0px 0px 2px #dfd130;
+    position: relative;
+    z-index: 3;
+}
+.contact li{
+    list-style: none;
+}
+.social a{
+    padding: 10px;
+} 
+.social img{
+    filter: grayscale(100%);
+    padding-top: 10px;
+    width: 30px;
+}
+.copyright{
+    font-family: 'Neucha', cursive;
+    display: flex;
+    justify-content: center;
+    background-color: #000000;
+    color: #dfd130;
+
+}

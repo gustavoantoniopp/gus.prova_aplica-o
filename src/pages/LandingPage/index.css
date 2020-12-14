@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
+
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.content{
+    display: flex;
+    justify-content: center;
+}
+.page{
+    width: 100%;
+    height: 800px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background: url(../../assets/back.jpg);
+    background-size: cover;
+}
+.title{
+    font-family: 'Shadows Into Light','cursive';
+    color: #dfd130;
+    font-size: 42px;
+}
+.list{
+    font-size: 15px;
+    color: white;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    font-family: 'Lora', serif;
+    animation-name: up;
+    animation-duration: 800ms;
+    animation-fill-mode: none;
+}
+.buttom p{
+    padding: 5px;
+    color: white;
+    font-size: 20px;
+    background: none;
+    border: solid 2px white;
+    border-radius: 10px;
+}
+@keyframes up{
+    from{opacity:0%;}
+    to{opacity: 100%;}
+}
+.align{
+    padding-right: 28px;
+}
+.align2{
+    padding-right: 10px;
+}

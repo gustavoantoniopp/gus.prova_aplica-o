@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Sumana:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+.pageNews{
+    background: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 200px;
+}
+.listItems{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 80px;
+    width: 200px;
+    height: 150px;
+}
+.text{
+    color: white;
+    font-size: 22px;
+}
+.text input{
+    margin-bottom: 15px;
+    height: 30px;
+    font-size: 15px;
+    color: gray;
+}
+.buttomItem{
+    margin-top: 10px;
+    font-size: 20px;
+    border: solid 2px #dfd130;
+    border-radius: 5px;
+    background: none;
+    color: #dfd130;
+}
+.checkbox{
+    display: flex;
+    flex-direction: row;
+    font-size: 18px;
+}
+.checkItem{
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+}

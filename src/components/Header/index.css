@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Domine:wght@500&display=swap');
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    background: #000000;
+    font-size: 22px;
+    font-family: 'Domine', serif;
+    box-shadow: 0px 0px 2px #dfd130;
+    position: relative;
+    z-index: 3;
+}
+.logo img{
+    width: 100px;
+    margin: 15px;
+    margin-left: 65px;
+}
+.opts{
+    display: flex;
+    list-style: none;
+    text-decoration: none;
+    color: white;
+    padding-right: 80px;
+}
+.opts li{
+    padding-left: 40px;
+}
